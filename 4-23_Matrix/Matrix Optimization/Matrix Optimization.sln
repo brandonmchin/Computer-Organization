@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrix Optimization", "Matrix Optimization\Matrix Optimization.vcxproj", "{9900AF40-6D9E-4079-B56A-CF98280BA128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9900AF40-6D9E-4079-B56A-CF98280BA128}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9900AF40-6D9E-4079-B56A-CF98280BA128}.Debug|Win32.Build.0 = Debug|Win32
+		{9900AF40-6D9E-4079-B56A-CF98280BA128}.Release|Win32.ActiveCfg = Release|Win32
+		{9900AF40-6D9E-4079-B56A-CF98280BA128}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
